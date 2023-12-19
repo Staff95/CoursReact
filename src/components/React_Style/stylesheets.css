@@ -1,0 +1,17 @@
+.primary{
+    color: cornflowerblue;
+}
+
+h2{
+    color: black;
+    border  : 3px solid black;
+    border-radius: 10px;
+}
+
+.diana{
+    background-color: darkslateblue;
+}
+
+.pasdiana{
+    background-color: silver;
+}
